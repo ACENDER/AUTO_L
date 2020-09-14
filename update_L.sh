@@ -5,7 +5,7 @@ echo '开--始--部--署'
 
 #部署
 git add --all
-git commit -m 'update'
+git commit -m 'update l'
 git push -u origin master
 
 echo '部--署--完--毕'
